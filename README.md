@@ -35,4 +35,4 @@ It is important that credit card companies are able to recognize fraudulent cred
 
 - The model has a balanced accuracy of 0.893828, F1 score of 0.913245, PR-AUC of 0.811808, ROC-AUC of 0.936575, Cohen's Kappa score of 0.826491 and Training Time of 2613.324426s.
 
-- The model is able to generalise well on the testing data and can predict rain in Australia with an accuracy of 0.999440.
+- The model is able to generalise well on the testing data and can predict credit card fraud with an accuracy of 0.999440.
